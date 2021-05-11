@@ -1,0 +1,103 @@
+body{
+    font-family: "Monserrat", sans-serif;
+    
+}
+#contacto{
+    background-image: url(../images/azul3.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+p{
+    color: grey;
+}
+h1{
+    color:#68b8d1;
+}
+nav .nav-link{
+    color: #282828;
+}
+nav .active{
+    border: 1px solid #68b8d1;
+    border-radius: 20px;
+}
+input, textarea, .btn{
+    border-radius: 15px !important;
+}
+.btn{
+    border: gray;
+    background-color: white;
+    color: #78d7f3;
+    }
+.btn:hover{
+    color: white;
+    background-color: #78d7f3;
+}
+.btn-azul{
+    margin: 10%;
+    padding: 0 20px 0 20px;
+    background-color: white;
+    color: #78d7f3;
+}
+.btn-azul:hover{
+    color: white;
+    background-color: #68b8d1;
+}
+footer .whatsapp{
+    background-color: #68b8d1;
+    color: white;
+    width: 80px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    margin-left: 70%;
+    border: 1px solid  #78d7f3;
+}
+footer .whatsapp a{
+    color: white;
+    }
+footer .fa-linkedin-in{
+    background-color: #68b8d1;
+    color: white;
+    width: 80px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    border: 1px solid  #78d7f3;
+}
+.bg-dark {
+    background-color: #78d7f3!important;
+    border-radius: 100px;
+}
+footer .fa-github{
+    background-color: #68b8d1;
+    color: white;
+    width: 80px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    border: 1px solid  #78d7f3;
+}
+footer, footer a{
+    color: grey;
+    font-weight: 100;
+}
+.whatsapp:hover{
+    color: #68b8d1;
+    background-color:  #78d7f3;
+}
+@media (max-width: 750px) {/* Para mobile */
+    #contacto {
+        background-image: url(../images/azul4.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    
