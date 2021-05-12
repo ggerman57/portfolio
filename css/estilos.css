@@ -7,6 +7,11 @@ body{
     background-size: 100%;
     background-repeat: no-repeat;
 }
+#proyectos{
+    background-image: url(../images/azul3.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
 p{
     color: grey;
 }
@@ -23,24 +28,38 @@ nav .active{
 input, textarea, .btn{
     border-radius: 15px !important;
 }
+#proyectos img{
+    height: 180px;
+}
 .btn{
     border: gray;
-    background-color: white;
-    color: #78d7f3;
+    background-color: #68b8d1;
+    color: #white;
     }
-.btn:hover{
-    color: white;
+#proyectos .color-gradiente{
     background-color: #78d7f3;
+    }
+h2{
+    font-size: 18px;
+    text-align: center;
+    color: white;
+}
+.btn:hover{
+    color: #68b8d1;
+    background-color: white;
 }
 .btn-azul{
     margin: 10%;
     padding: 0 20px 0 20px;
-    background-color: white;
-    color: #78d7f3;
+    background-color: #68b8d1;
+    color: white;
 }
 .btn-azul:hover{
-    color: white;
-    background-color: #68b8d1;
+    color: #68b8d1;
+    background-color: white;
+}
+#proyectos .card p{
+    height: 170px;
 }
 footer .whatsapp{
     background-color: #68b8d1;
