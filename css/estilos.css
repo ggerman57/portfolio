@@ -61,6 +61,10 @@ h2{
 #proyectos .card p{
     height: 170px;
 }
+.link-azul{
+    text-decoration: none;
+    color: #68b8d1;
+}
 footer .whatsapp{
     background-color: #68b8d1;
     color: white;
