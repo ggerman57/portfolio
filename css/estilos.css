@@ -24,6 +24,16 @@ nav .nav-link{
 nav .active{
     border: 1px solid #68b8d1;
     border-radius: 20px;
+    text-align: center !important; 
+}
+#inicio .div-cohete{
+    height: 410px;
+}
+#inicio .cohete{
+    height: 400px;
+}
+#inicio .cohete:hover{
+    height: 410px;
 }
 input, textarea, .btn{
     border-radius: 15px !important;
