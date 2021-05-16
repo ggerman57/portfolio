@@ -26,11 +26,8 @@ nav .active{
     border-radius: 20px;
     text-align: center !important; 
 }
-#inicio .div-cohete{
-    height: 410px;
-}
-#inicio .cohete{
-    height: 400px;
+#inicio .svg{
+    weight: 300px;
 }
 #inicio .cohete:hover{
     height: 410px;
