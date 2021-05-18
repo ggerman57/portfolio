@@ -12,8 +12,17 @@ body{
     background-size: 100%;
     background-repeat: no-repeat;
 }
+#inicio{
+    background-image: url(../images/azul3.jpg);
+}
+#sobre-mi{
+    background-image: url(../images/azul3.jpg);
+}
 p{
     color: grey;
+}
+li a{
+    color: black !important;
 }
 h1{
     color:#68b8d1;
@@ -26,11 +35,11 @@ nav .active{
     border-radius: 20px;
     text-align: center !important; 
 }
-#inicio .svg{
-    weight: 300px;
+.cohete{
+    height: 350px;
 }
-#inicio .cohete:hover{
-    height: 410px;
+.cohete:hover{
+    transform: scale(1.1);
 }
 input, textarea, .btn{
     border-radius: 15px !important;
@@ -38,14 +47,29 @@ input, textarea, .btn{
 #proyectos img{
     height: 180px;
 }
+.btn-home{
+    background-color: #68b8d1;
+    color: white;
+    border-radius: 1px solid #68b8d1;
+}
+.img-circle {
+    margin: 1em auto;
+    display: block;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 50%;
+}
 .btn{
     border: gray;
     background-color: #68b8d1;
-    color: #white;
-    }
+    color: white;
+}
 #proyectos .color-gradiente{
     background-color: #78d7f3;
     }
+#sobre-mi .color-gradiente{
+    background-color: #78d7f3;
+}   
 h2{
     font-size: 18px;
     text-align: center;
@@ -124,8 +148,35 @@ footer, footer a{
     color: #68b8d1;
     background-color:  #78d7f3;
 }
+#sobre-mi .card{
+    height: 220px;
+    width: 220px;
+}
+#sobre-mi .card-idioma{
+    height: 200px;
+    width: 200px;
+}
+#idiomas .card-idioma{
+    height: 200px;
+    width: 200px;
+}
 @media (max-width: 750px) {/* Para mobile */
     #contacto {
+        background-image: url(../images/azul4.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    #inicio {
+        background-image: url(../images/azul4.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    #sobre-mi {
+        background-image: url(../images/azul4.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+    #proyectos {
         background-image: url(../images/azul4.jpg);
         background-repeat: no-repeat;
         background-size: 100%;
