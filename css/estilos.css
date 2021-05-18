@@ -10,13 +10,15 @@ body{
 #proyectos{
     background-image: url(../images/azul3.jpg);
     background-size: 100%;
-    background-repeat: no-repeat;
 }
 #inicio{
     background-image: url(../images/azul3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 #sobre-mi{
     background-image: url(../images/azul3.jpg);
+    background-size: 100%;
 }
 p{
     color: grey;
@@ -35,10 +37,22 @@ nav .active{
     border-radius: 20px;
     text-align: center !important; 
 }
+p.shadow.bienvenidos{
+    background-color: transparent;
+    border-radius: 20px;
+    border: 1px solid white;
+    color: black;
+}
 .cohete{
     height: 350px;
 }
 .cohete:hover{
+    transform: scale(1.1);
+}
+.ingcivil{
+    height: 350px;
+}
+.ingcivil:hover{
     transform: scale(1.1);
 }
 input, textarea, .btn{
@@ -52,10 +66,14 @@ input, textarea, .btn{
     color: white;
     border-radius: 1px solid #68b8d1;
 }
-.img-circle {
+.img-circle-2{
     margin: 1em auto;
-    display: block;
-    background-color: #fff;
+    background-color: #78d7f3;
+    padding: 10px;
+    border-radius: 50%;
+}
+.img-circle{
+    background-color: #white;
     padding: 10px;
     border-radius: 50%;
 }
@@ -66,7 +84,7 @@ input, textarea, .btn{
 }
 #proyectos .color-gradiente{
     background-color: #78d7f3;
-    }
+}
 #sobre-mi .color-gradiente{
     background-color: #78d7f3;
 }   
@@ -106,12 +124,12 @@ footer .whatsapp{
     text-align: center;
     padding-bottom: 30px;
     padding-top: 10px;
-    margin-left: 70%;
+    margin-left: 80%;
     border: 1px solid  #78d7f3;
 }
 footer .whatsapp a{
     color: white;
-    }
+}
 footer .fa-linkedin-in{
     background-color: #68b8d1;
     color: white;
@@ -124,9 +142,8 @@ footer .fa-linkedin-in{
     padding-top: 10px;
     border: 1px solid  #78d7f3;
 }
-.bg-dark {
-    background-color: #78d7f3!important;
-    border-radius: 100px;
+.bg-dark{
+    background-color: #78d7f3!important;  
 }
 footer .fa-github{
     background-color: #68b8d1;
@@ -152,31 +169,23 @@ footer, footer a{
     height: 220px;
     width: 220px;
 }
-#sobre-mi .card-idioma{
-    height: 200px;
-    width: 200px;
-}
-#idiomas .card-idioma{
-    height: 200px;
-    width: 200px;
-}
 @media (max-width: 750px) {/* Para mobile */
-    #contacto {
+    #contacto{
         background-image: url(../images/azul4.jpg);
         background-repeat: no-repeat;
         background-size: 100%;
     }
-    #inicio {
+    #inicio{
         background-image: url(../images/azul4.jpg);
         background-repeat: no-repeat;
         background-size: 100%;
     }
-    #sobre-mi {
+    #sobre-mi{
         background-image: url(../images/azul4.jpg);
         background-repeat: no-repeat;
         background-size: 100%;
     }
-    #proyectos {
+    #proyectos{
         background-image: url(../images/azul4.jpg);
         background-repeat: no-repeat;
         background-size: 100%;
