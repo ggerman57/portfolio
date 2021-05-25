@@ -25,16 +25,16 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="navbar-nav me-auto mb-2 mb-md-0 text-center">
                         <li class="nav-item">
-                            <a class="nav-link px-3" href="index.html">Inicio</a>
+                            <a class="nav-link px-3" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-3 active" href="sobre-mi.html">Sobre mí</a>
+                            <a class="nav-link px-3 active" href="sobre-mi.php">Sobre mí</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-3" href="proyectos.html">Proyectos</a>
+                            <a class="nav-link px-3" href="proyectos.php">Proyectos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-3" href="contacto.html">Contacto</a>
+                            <a class="nav-link px-3" href="contacto.php">Contacto</a>
                         </li>
                     </ul>
                     <div>
@@ -58,7 +58,7 @@
                 <div class="col-12 col-sm-6 offset-sm-2" style="width: 320px">
                     <img src="images/germangutierrez.jpeg" alt="German Gutierrez" title="German Gutierrez"
                         class="img-fluid img-circle-2">
-                    <a href="contacto.html" class="btn btn-azul" style="font-size: 20px;">Enviar mensaje</a>
+                    <a href="contacto.php" class="btn btn-azul" style="font-size: 20px;">Enviar mensaje</a>
                 </div>
             </div>
         </div>

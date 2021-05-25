@@ -25,16 +25,16 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="navbar-nav me-auto mb-2 mb-md-0 text-center">
                         <li class="nav-item">
-                            <a class="nav-link px-3 active" href="index.html">Inicio</a> <!-- active muestra que es el boton seleccionado en el menu-->
+                            <a class="nav-link px-3 active" href="index.php">Inicio</a> <!-- active muestra que es el boton seleccionado en el menu-->
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-3" href="sobre-mi.html">Sobre mí</a>
+                            <a class="nav-link px-3" href="sobre-mi.php">Sobre mí</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-3" href="proyectos.html">Proyectos</a>
+                            <a class="nav-link px-3" href="proyectos.php">Proyectos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-3" href="contacto.html">Contacto</a>
+                            <a class="nav-link px-3" href="contacto.php">Contacto</a>
                         </li>
                     </ul>
                     <div>
@@ -49,10 +49,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6 mt-4 text-center mb-5">
-                    <a href="proyectos.html"><img src="images/civil.png" class="ingcivil"></a>
+                    <a href="proyectos.php"><img src="images/civil.png" class="ingcivil"></a>
                 </div>
                 <div class="col-sm-6 mt-4 text-center mb-5">
-                    <a href="proyectos.html"><img src="images/cohete.svg" class="cohete"></a>
+                    <a href="proyectos.php"><img src="images/cohete.svg" class="cohete"></a>
                 </div>
             </div>
             <div class="row">
@@ -64,7 +64,7 @@
             </div>
             <div class="row">
                 <div class="col-12 text-center">
-                    <a href="proyectos.html" class="btn shadow">Conoce todos mis proyectos</a>
+                    <a href="proyectos.php" class="btn shadow">Conoce todos mis proyectos</a>
                 </div>
             </div>
         </div>
