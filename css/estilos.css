@@ -46,7 +46,7 @@ p.shadow.bienvenidos{
 .cohete{
     height: 350px;
 }
-.cohete:hover{
+.cohete:hover{ /* hover dar estilo al pasar el mouse por encima de un elemento */
     transform: scale(1.1);
 }
 .ingcivil{
@@ -172,22 +172,22 @@ footer, footer a{
 @media (max-width: 750px) {/* Para mobile */
     #contacto{
         background-image: url(../images/azul4.jpg);
-        background-repeat: no-repeat;
+        background-repeat: repeat;
         background-size: 100%;
     }
     #inicio{
         background-image: url(../images/azul4.jpg);
-        background-repeat: no-repeat;
+        background-repeat: repeat;
         background-size: 100%;
     }
     #sobre-mi{
         background-image: url(../images/azul4.jpg);
-        background-repeat: no-repeat;
+        background-repeat: repeat;
         background-size: 100%;
     }
     #proyectos{
         background-image: url(../images/azul4.jpg);
-        background-repeat: no-repeat;
+        background-repeat: repeat;
         background-size: 100%;
     }
     
