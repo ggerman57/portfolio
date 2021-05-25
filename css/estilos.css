@@ -171,22 +171,22 @@ footer, footer a{
 }
 @media (max-width: 750px) {/* Para mobile */
     #contacto{
-        background-image: url(../images/azul4.jpg);
+        background-image: url(/images/azul4.jpg);
         background-repeat: repeat;
         background-size: 100%;
     }
     #inicio{
-        background-image: url(../images/azul4.jpg);
+        background-image: url(/images/azul4.jpg);
         background-repeat: repeat;
         background-size: 100%;
     }
     #sobre-mi{
-        background-image: url(../images/azul4.jpg);
+        background-image: url(/images/azul4.jpg);
         background-repeat: repeat;
         background-size: 100%;
     }
     #proyectos{
-        background-image: url(../images/azul4.jpg);
+        background-image: url(/images/azul4.jpg);
         background-repeat: repeat;
         background-size: 100%;
     }
