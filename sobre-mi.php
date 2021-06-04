@@ -34,7 +34,7 @@ $pg = "sobre-mi";       // $pg es para definir una variable en cada pestaña. y
                     Adicionalmente en los últimos meses estoy muy interesado en la profesión IT, por ende estoy realizando cursos que me ayuden en la formación Full Stack.</p>
                 </div>
                 <div class="col-12 col-sm-6 offset-sm-2" style="width: 320px">
-                    <img src="images/germangutierrez.jpeg" alt="German Gutierrez" title="German Gutierrez"
+                    <img src="images/germangutierrez.jpg" alt="German Gutierrez" title="German Gutierrez"
                         class="img-fluid img-circle-2">
                     <a href="contacto.php" class="btn btn-azul" style="font-size: 20px;">Enviar mensaje</a>
                 </div>
