@@ -30,10 +30,8 @@ $pg = "sobre-mi";       // $pg es para definir una variable en cada pestaña. y
             <div class="row">
                 <div class="col-12 col-sm-6">
                     <h1 class="col-12 mt-4 mb-4">Sobre mí</h1>
-                    <p class="shadow bg-white p-2">Profesional de ingeniería con una visión muy amplia y completa en la elaboración de cómputos
-                        métricos, diseño estructural e instalaciones sanitarias. Poseo una gran destreza en AutoCAD para
-                        el diseño de planimetría 2D y modelado en SolidWorks. Poseo experiencia en oficina técnica en el
-                        desarrollo de presupuesto, licitaciones, gestión de compras y contrataciones. Adicionalmente en los ultimos meses estoy muy interesado en la profeson IT, por ende estoy realizando cursos que me ayuden en la formación del mundo tecnologico.</p>
+                    <p class="shadow bg-white p-2">Profesional de ingeniería con una visión muy amplia y completa en la elaboración de cómputos métricos,  diseño estructural e instalaciones sanitarias.
+                    Adicionalmente en los últimos meses estoy muy interesado en la profesión IT, por ende estoy realizando cursos que me ayuden en la formación Full Stack.</p>
                 </div>
                 <div class="col-12 col-sm-6 offset-sm-2" style="width: 320px">
                     <img src="images/germangutierrez.jpeg" alt="German Gutierrez" title="German Gutierrez"
@@ -286,8 +284,6 @@ $pg = "sobre-mi";       // $pg es para definir una variable en cada pestaña. y
                         <p> Durante el curso adquirirás conocimiento en tecnologías de programación actuales que se
                             emplean en el ámbito corporativo, como así también sentar las bases de la lógica de
                             programación.</p>
-                        <p> Si ya tenés una base sólida de programación, te invito a que veas el Curso de
-                            Programación Mobile</p>
                     </div>
                 </div>
             </div>
