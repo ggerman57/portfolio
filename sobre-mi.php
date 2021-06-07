@@ -44,7 +44,7 @@ $pg = "sobre-mi";       // $pg es para definir una variable en cada pestaña. y
             <div class="container">
                 <div class="row">
                     <div class="col-12 text-center">
-                        <h2 class="my-4 btn shadow" style="font-size: 30px;">Ingeniero Civil & Full Stack</h2>
+                        <h2 class="my-4 btn shadow" style="font-size: 30px;">Stack Tecnológico</h2>
                     </div>
                 </div>
             </div>
@@ -80,7 +80,7 @@ $pg = "sobre-mi";       // $pg es para definir una variable en cada pestaña. y
         <section class="container">
             <div class="row">
                 <div class="col-12">
-                    <h2 class="btn shadow fas fa-briefcase my-3" style="font-size: 30px;">Experiencia</h2>
+                    <h2 class="btn shadow fas fa-briefcase my-3" style="font-size: 30px;">Experiencia laboral</h2>
                 </div>
             </div>
             <div class="row">

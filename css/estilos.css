@@ -19,6 +19,7 @@ body{
 #sobre-mi{
     background-image: url(../images/azul3.jpg);
     background-size: 100%;
+    background-repeat: no-repeat;
 }
 p{
     color: grey;
