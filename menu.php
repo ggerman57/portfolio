@@ -20,7 +20,7 @@
                         </li>
                     </ul>
                     <div>
-                        <a href="files/CV ING GERMAN.pdf" class="btn btn-azul">Descargar mi CV <i
+                        <a href="files/CV ING GERMAN.pdf" download="GermanGutierrez-CV" class="btn btn-azul">Descargar mi CV <i
                                 class="fas fa-download"></i></a> 
                     </div>
                 </div>
