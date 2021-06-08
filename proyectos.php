@@ -35,8 +35,8 @@ $pg = "proyectos";
                 </div>
             </div>
             <div class="row">
-                <div class="col-sm-4 col-12 px-4">
-                    <div class="row border card">
+                <div class="col-sm-4 col-12 p-3">
+                    <div class="row border card mt-3">
                         <img src="images/abmclientes.png" alt="" class="img-fluid px-0">
                         <div class="col-12 color-gradiente px-0 pt-2">
                             <h2>ABM CLIENTES</h2>
@@ -57,8 +57,8 @@ $pg = "proyectos";
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-4 col-12 px-4">
-                    <div class="row border card">
+                <div class="col-sm-4 col-12 p-3">
+                    <div class="row border card mt-3">
                         <img src="images/abmventas.png" alt="" class="img-fluid px-0">
                         <div class="col-12 color-gradiente px-0 pt-2">
                             <h2>SISTEMA DE GESTIÓN DE VENTAS</h2>
@@ -79,8 +79,8 @@ $pg = "proyectos";
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-4 col-12 px-4">
-                    <div class="row border card">
+                <div class="col-sm-4 col-12 p-3">
+                    <div class="row border card mt-3">
                         <img src="images/sistema-admin.png" alt="" class="img-fluid px-0">
                         <div class="col-12 color-gradiente px-0 pt-2">
                             <h2>PROYECTO INTEGRADOR</h2>

@@ -5,21 +5,22 @@ body{
 #contacto{
     background-image: url(../images/azul3.jpg);
     background-size: 100%;
-    background-repeat: no-repeat;
+   
 }
 #proyectos{
     background-image: url(../images/azul3.jpg);
     background-size: 100%;
+   
 }
 #inicio{
     background-image: url(../images/azul3.jpg);
-    background-repeat: no-repeat;
+    
     background-size: 100%;
 }
 #sobre-mi{
     background-image: url(../images/azul3.jpg);
     background-size: 100%;
-    background-repeat: no-repeat;
+ 
 }
 p{
     color: grey;
@@ -74,7 +75,7 @@ input, textarea, .btn{
     border-radius: 50%;
 }
 .img-circle{
-    background-color: #white;
+    background-color: white;
     padding: 10px;
     border-radius: 50%;
 }
@@ -144,7 +145,7 @@ footer .fa-linkedin-in{
     border: 1px solid  #78d7f3;
 }
 .bg-dark{
-    background-color: #78d7f3!important;  
+    background-color: #78d7f3 !important;  
 }
 footer .fa-github{
     background-color: #68b8d1;
@@ -172,22 +173,22 @@ footer, footer a{
 }
 @media (max-width: 750px) {/* Para mobile */
     #contacto{
-        background-image: url(/images/azul4.jpg);
+        background-image: url(../images/azul4.jpg);
         background-repeat: repeat;
         background-size: 100%;
     }
     #inicio{
-        background-image: url(/images/azul4.jpg);
+        background-image: url(../images/azul4.jpg);
         background-repeat: repeat;
         background-size: 100%;
     }
     #sobre-mi{
-        background-image: url(/images/azul4.jpg);
+        background-image: url(../images/azul4.jpg);
         background-repeat: repeat;
         background-size: 100%;
     }
     #proyectos{
-        background-image: url(/images/azul4.jpg);
+        background-image: url(../images/azul4.jpg);
         background-repeat: repeat;
         background-size: 100%;
     }
